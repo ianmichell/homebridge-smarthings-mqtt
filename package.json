@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-smartthings-mqtt",
+  "version": "0.0.1",
+  "description": "Smarthings MQTT Bridge Integration for Homebridge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thunderbird/homebridge-smarthings-mqtt.git"
+  },
+  "keywords": [
+    "homebridge-plugin",
+    "smartthings",
+    "mqtt",
+    "smarthings-mqtt-bridge",
+    "homebridge"
+  ],
+  "author": "Ian Michell",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/thunderbird/homebridge-smarthings-mqtt/issues"
+  },
+  "homepage": "https://github.com/thunderbird/homebridge-smarthings-mqtt#readme"
+}
